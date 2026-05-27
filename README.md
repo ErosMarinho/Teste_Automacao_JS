@@ -1,5 +1,4 @@
-# teste-Projeto-Automação Java Script
-# js-validation-calculator-project
+# Teste_Automacao_JavaScript
 
 This project is a simple JavaScript application that includes scripts for validating Brazilian CPF numbers and email addresses using regular expressions, as well as basic arithmetic operations through a calculator module. The project is designed to run in a web environment and includes tests written with Jest to ensure the functionality of each component.
 
