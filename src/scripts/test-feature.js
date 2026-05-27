@@ -1,2 +1,2 @@
-// Teste de feature
-console.log('Feature primeiro-teste implementada!');
+// Teste de feature - versão mesclada
+console.log('Feature primeiro-teste implementada na develop!');
