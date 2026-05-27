@@ -81,3 +81,14 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License.
+
+## Gerar relatório de estratégia
+
+Para gerar localmente o PDF com o compilado da estratégia de automação:
+
+```bash
+python3 -m pip install --user -r requirements.txt
+python3 generate_report.py
+```
+
+O arquivo `relatorio_estrategia.pdf` será criado na raiz do projeto.
